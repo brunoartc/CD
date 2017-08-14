@@ -1,0 +1,10 @@
+UF 
+V 0105 - Total de Moradores (linha)
+V 0202 - Tipo do domicilio (linha)
+V 0220 - Tem telefone movel celular (coluna)
+V 02270 - NUmero de televisoes de tela fina (linha)
+V 02322 - Te acesso a internet no proprio domicilio (coluna)
+V 02424 - O acesso a internet é feito pelo $g (coluna)
+V 02425 - O acesso eh discado ( coluna )
+V 4622 - Faixa do rendimento mensal domiciliar per capita (linha)
+V 0211 - Tem agua canalizada (linha)
